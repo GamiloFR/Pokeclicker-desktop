@@ -1,7 +1,7 @@
 {
-  "name": "pokeclicker-desktop",
+  "name": "pokeclicker-desktop-custom",
   "version": "1.2.0",
-  "description": "PokeClicker Desktop",
+  "description": "PokeClicker Desktop - Custom",
   "repository": {
     "type": "git",
     "url": "https://github.com/GamiloFR/Pokeclicker-desktop.git"
